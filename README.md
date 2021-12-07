@@ -7,5 +7,3 @@ yeah this is a svpra.
 
 My Discord Server: https://discord.gg/mjCRn8BsFg
 My Telegram channel: https://t.me/progerinc
-
-https://github.com/svpra#-github-stats
