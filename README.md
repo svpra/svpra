@@ -13,4 +13,4 @@ DM me in Telegram: https://t.me/svprax
 
 My instagram: https://instagram.com/svprax
 
-![alt text](https://www.flaticon.com/free-icon/hashtag_423068)
+![alt text](https://cdn-icons-png.flaticon.com/512/423/423068.png)
