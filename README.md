@@ -1,7 +1,7 @@
 ### svpra
 yeah this is a svpra.
 
-![alt text](https://i.pinimg.com/originals/61/ae/64/61ae6406fd8c73d8ddb261ef8411e0c8.jpg)
+![alt text](https://paratic.com/dosya/2019/01/efsane-10-japon-model-toyota-supra.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&show_icons=true)
 
