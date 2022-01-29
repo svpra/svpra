@@ -3,7 +3,7 @@ yeah this is a svpra.
 
 ![alt text](https://paratic.com/dosya/2019/01/efsane-10-japon-model-toyota-supra.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://avatars.mds.yandex.net/get-zen-logos/223306/pub_5f6770998433a623dae6b6b6_5f6771724c07ce06042e4998/xxh)
 
 My Discord Server: https://discord.gg/mjCRn8BsFg
 
