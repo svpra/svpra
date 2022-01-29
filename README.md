@@ -3,7 +3,7 @@ yeah this is a svpra.
 
 ![alt text](https://avatars.mds.yandex.net/get-zen-logos/223306/pub_5f6770998433a623dae6b6b6_5f6771724c07ce06042e4998/xxh)
 
-![Anurag's GitHub stats](https://avatars.mds.yandex.net/get-zen-logos/223306/pub_5f6770998433a623dae6b6b6_5f6771724c07ce06042e4998/xxh)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&icons=true)
 
 My Discord Server: https://discord.gg/mjCRn8BsFg
 
