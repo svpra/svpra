@@ -4,8 +4,6 @@
 
 ![alt text](https://avatars.mds.yandex.net/get-zen-logos/223306/pub_5f6770998433a623dae6b6b6_5f6771724c07ce06042e4998/xxh)
 
-![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
