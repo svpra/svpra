@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 My Discord Server: https://discord.gg/mjCRn8BsFg
 
 My Telegram channel: https://t.me/progerinc
