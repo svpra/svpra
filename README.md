@@ -8,13 +8,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpra&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-My Discord Server: https://discord.gg/mjCRn8BsFg
+[💾 My Discord Server](https://discord.gg/mjCRn8BsFg)
 
-My Telegram channel: https://t.me/svpraprog
+[📰 My Telegram channel](https://t.me/svpraprog)
 
-DM me in Telegram: https://t.me/svprax
+[✍️ DM me in Telegram](https://t.me/svprax)
 
-My instagram: https://instagram.com/qiapc
+[🖼️ My instagram](https://instagram.com/qiapc)
 
 [👩‍💻 My site](https://svpra.github.io/main)
 
