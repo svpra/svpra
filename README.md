@@ -16,6 +16,8 @@ DM me in Telegram: https://t.me/svprax
 
 My instagram: https://instagram.com/qiapc
 
+[👩‍💻 My site](https://svpra.github.io/main)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
