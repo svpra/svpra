@@ -10,7 +10,7 @@
 
 My Discord Server: https://discord.gg/mjCRn8BsFg
 
-My Telegram channel: https://t.me/andreyprojects
+My Telegram channel: https://t.me/svpraprog
 
 DM me in Telegram: https://t.me/svprax
 
