@@ -24,6 +24,8 @@
 
 [🐦 My twitter](https://twitter.com/svpraprog)
 
+[🎵 My playlist for coding](https://open.spotify.com/playlist/7HMZOfsgsUAB6V9TWuvThc?si=s2T5tawRThanHh-Zn7LVzA&utm_source=copy-link)
+
 # What i am listening on Spotify now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
