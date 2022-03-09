@@ -1,4 +1,4 @@
-### ![alt text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif) Yeah this is a svpra.
+### Yeah this is a svpra.
 
 
 
