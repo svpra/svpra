@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpra&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=svpra)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # I'm in social networks
 
 [💾 My Discord Server](https://discord.gg/mjCRn8BsFg)
