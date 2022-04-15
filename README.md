@@ -6,7 +6,7 @@
 
 # My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=omni&count_private=true&icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&count_private=true&icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpra&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
