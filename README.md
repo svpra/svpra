@@ -14,7 +14,7 @@
 
 [💾 My Discord Server](https://discord.gg/mjCRn8BsFg)
 
-[📰 My Telegram channel](https://t.me/awerquade)
+[📰 My Telegram channel](https://t.me/transpiler)
 
 [✍️ DM me in Telegram](https://t.me/svprax)
 
