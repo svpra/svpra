@@ -16,7 +16,7 @@
 
 [📰 My Telegram channel](https://t.me/transpiler)
 
-[✍️ DM me in Telegram](https://t.me/svprax)
+[✍️ My Telegram](https://t.me/svprax)
 
 [🖼️ My instagram](https://instagram.com/qiapc)
 
