@@ -14,8 +14,6 @@
 
 [💾 My Discord Server](https://discord.gg/mjCRn8BsFg)
 
-[📰 My Telegram channel](https://t.me/transpiler)
-
 [✍️ My Telegram](https://t.me/svprax)
 
 [🖼️ My instagram](https://instagram.com/qiapc)
