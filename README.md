@@ -12,17 +12,13 @@
 
 # I'm in social networks
 
-[💾 My Discord Server](https://discord.gg/mjCRn8BsFg)
-
-[✍️ My Telegram](https://t.me/svprax)
+[✍️ My telegram](https://t.me/svprax)
 
 [🖼️ My instagram](https://instagram.com/qiapc)
 
 [👩‍💻 My site](https://svpra.ml)
 
 [🐦 My twitter](https://twitter.com/svpraprog)
-
-[🎵 My playlist for coding](https://open.spotify.com/playlist/7HMZOfsgsUAB6V9TWuvThc?si=s2T5tawRThanHh-Zn7LVzA&utm_source=copy-link)
 
 # What i am listening on Spotify now
 
