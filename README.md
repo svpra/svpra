@@ -22,7 +22,7 @@
 
 # What i am listening on Spotify now
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=natermoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
