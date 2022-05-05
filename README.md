@@ -8,8 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&count_private=true&show_icons=true)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=svpra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # I'm in social networks
 
 [✍️ My telegram](https://t.me/svprax)
@@ -19,10 +17,5 @@
 [👩‍💻 My site](https://svpra.ml)
 
 [🐦 My twitter](https://twitter.com/svpraprog)
-
-# What i am listening on Spotify now
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dko1n4ehyz1kxpjbmb243zfmh&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
