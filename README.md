@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello
 
 I am svpra - backend/low-level developer. I am making enterprise systems 
 for logistics business, and some low level projects for myself. I write in:
@@ -17,8 +17,6 @@ for logistics business, and some low level projects for myself. I write in:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&count_private=true&show_icons=true)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17337055&layout=compact&theme=dark)](https://stackoverflow.com/users/17337055/svpra)
-
 ### I'm in social networks
 
 [My telegram](https://t.me/svprax)
@@ -30,4 +28,5 @@ for logistics business, and some low level projects for myself. I write in:
 [My twitter](https://twitter.com/svpraprog)
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
+
 🐦
