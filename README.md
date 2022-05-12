@@ -23,7 +23,9 @@ for logistics business, and some low level projects for myself. I write in:
 
 [My site](https://svpra.ml)
 
-[My twitter](https://twitter.com/svpraprog)
+<a href="https://twitter.com/svpraprog">
+  <img align="left" alt="svpra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
 
