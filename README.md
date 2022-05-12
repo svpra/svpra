@@ -17,7 +17,7 @@ for logistics business, and some low level projects for myself. I write in:
 
 ### I'm in social networks
 
-[My telegram](https://t.me/svprax)
+[github.com/svpra/svpra/icons/68747470733a2f2f7266307833642e73752f6d617962655f6173736574732f6c6f636174696f6e5f6f75746c696e655f32382e737667.svg](https://t.me/svprax)
 
 [/icons/](https://instagram.com/qiapc)
 
