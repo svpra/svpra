@@ -9,6 +9,8 @@ for logistics business, and some low level projects for myself. I write in:
 - RUST (apps)
 - C (low level)
 
+If you want to 
+
 ![alt text](https://avatars.mds.yandex.net/get-zen-logos/223306/pub_5f6770998433a623dae6b6b6_5f6771724c07ce06042e4998/xxh)
 
 ### My stats
@@ -20,9 +22,7 @@ for logistics business, and some low level projects for myself. I write in:
 [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/svprax)
 [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/qiapc)
 [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
-<a href="https://twitter.com/svpraprog">
-  <img align="left" alt="svpra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
