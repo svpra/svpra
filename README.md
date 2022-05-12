@@ -19,7 +19,7 @@ for logistics business, and some low level projects for myself. I write in:
 
 [My telegram](https://t.me/svprax)
 
-[My instagram](https://instagram.com/qiapc)
+[/icons/](https://instagram.com/qiapc)
 
 [My site](https://svpra.ml)
 
