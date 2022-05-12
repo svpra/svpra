@@ -17,11 +17,11 @@ for logistics business, and some low level projects for myself. I write in:
 
 ### I'm in social networks
 
-[github.com/svpra/svpra/icons/68747470733a2f2f7266307833642e73752f6d617962655f6173736574732f6c6f636174696f6e5f6f75746c696e655f32382e737667.svg](https://t.me/svprax)
+[![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
 
 [/icons/](https://instagram.com/qiapc)
 
-[My site](https://svpra.ml)
+[![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
 
 <a href="https://twitter.com/svpraprog">
   <img align="left" alt="svpra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
