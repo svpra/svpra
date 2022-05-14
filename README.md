@@ -20,7 +20,6 @@ If you want to follow my projects, subscribe to my [Twitter](twitter.com/svprapr
 ### I'm in social networks
 
 [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/svprax)
-[![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/qiapc)
 [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
 
 
