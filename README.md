@@ -23,7 +23,6 @@ If you want to follow my projects, subscribe to my [Twitter](twitter.com/svprapr
 [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
 
 
-
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
 
 🐦
