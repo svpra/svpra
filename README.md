@@ -19,11 +19,6 @@ If you want to follow my projects, subscribe to my [Twitter](twitter.com/svprapr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&count_private=true&show_icons=true)
 
-### I'm in social networks
-
-[![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/svprax)
-[![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://svpra.ml)
-
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
 
