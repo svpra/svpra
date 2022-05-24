@@ -1,13 +1,9 @@
 ### Hello
 
 I am svpra - backend/low-level developer. I am making enterprise systems 
-for logistics business, and some low level projects for myself. I write in:
-- C# (enterprise, highload, compilers, backend, ML)
-- C++ (backend, musical plug-ins, OpenCV, OpenGL)
-- x86asm (low level)
-- Python (AI, ML, backend, Scikit Learn)
-- RUST (apps)
-- C (low level)
+for logistics business, and some low level projects for myself. I write in C# (enterprise, highload, compilers, backend, ML), 
+C++ (backend, musical plug-ins, OpenCV, OpenGL), x86asm (low level), Python (AI, ML, backend, Scikit Learn), RUST (apps), 
+C (low level)
 
 If you want to follow my projects, subscribe to my [Twitter](twitter.com/svpraprog) and to my [blog](https://svpra.ml/blog) (Soon...)
 
