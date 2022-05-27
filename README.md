@@ -5,7 +5,7 @@ for logistics business, and some low level projects for myself. I write in C#, C
 
 ### My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
 
 
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
