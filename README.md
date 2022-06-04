@@ -7,7 +7,8 @@ for logistics business, and some low level projects for myself. I write in C#, C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=https://stackoverflow.com/users/17337055/svpra&layout=compact&theme=dark)](https://ru.stackoverflow.com/users/469436/svpra)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17337055)](https://ru.stackoverflow.com/users/469436/svpra)
+
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
 
 
