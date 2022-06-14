@@ -1,4 +1,4 @@
-### Hello
+### Hello 👋
 
 I am svpra - backend/low-level developer. I am making enterprise systems 
 for logistics business, and some low level projects for myself. I write in C#, C++, x86asm, Python, RUST, C, Ruby on Rails, Julia
