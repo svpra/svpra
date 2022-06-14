@@ -8,6 +8,8 @@ You can find me on:
 - [My Site](https://svpra.ml)
 - [Twitter](https://twitter.com/svpraprog)
 
+Or for HR's, my resume
+
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
