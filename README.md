@@ -8,7 +8,7 @@ You can find me on:
 - [My Site](https://svpra.ml)
 - [Twitter](https://twitter.com/svpraprog)
 
-Or for HR's - [my resume](https://svpra.ml)
+Or for HR's - [my resume](https://svpra.ml/resume)
 
 ### My stats
 
