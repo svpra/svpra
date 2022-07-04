@@ -6,6 +6,7 @@ for logistics business, and some low level projects for myself. I write in C#, C
 You can find me on:
 - [Telegram](HTTPS://t.me/svprax)
 - [My Site](https://svpra.ml)
+- [My Twitter]()
 
 ### My stats
 
