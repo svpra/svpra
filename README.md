@@ -9,7 +9,7 @@ You can find me on:
 - [Telegram](HTTPS://t.me/svprax)
 - [My Site](https://svpra.ml)
 - [My Twitter](https://twitter.com/svpraprog)
-
+f
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
