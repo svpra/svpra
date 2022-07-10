@@ -8,7 +8,6 @@ for logistics business, and some low level projects for myself. I write in
 You can find me on:
 - [Telegram](HTTPS://t.me/svprax)
 - [My Site](https://svpra.ml)
-- [My Twitter](https://twitter.com/svpraprog)
 
 ### My stats
 
