@@ -6,8 +6,10 @@ for logistics business, and some low level projects for myself. I write in
 - Python, RUST, C, Julia (less)
 
 You can find me on:
-- [Telegram](HTTPS://t.me/svprax)
-- [My Site](https://svpra.ml/)
+- [Telegram](HTTPS://t.me/svprax) <----------------|
+- [My Site](https://svpra.ml/)                     |
+                                                   |
+If you want to hire me, please, write me in Telegram
 
 ### My stats
 
