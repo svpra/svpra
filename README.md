@@ -5,7 +5,7 @@ for logistics business, and some low level projects for myself. I write in
 - C#, C++, x86asm, Ruby on Rails (as a mainstream) 
 - Python, RUST, C, Julia (less)
 
-You can find me on:
+You can find me in:
 - [Telegram](HTTPS://t.me/svprax) 
 - [My Site](https://svpra.ml/)
                                    
