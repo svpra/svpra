@@ -7,7 +7,7 @@ for logistics business, backend, and some low level projects for myself. I write
 
 You can find me in:
 - [Telegram](HTTPS://t.me/svprax) 
-- [✨ The internet ✨](https://svpra.ml/)
+- [The Internet ✨](https://svpra.ml/)
                                    
 If you want to hire me, please, write me in Telegram
 
