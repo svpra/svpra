@@ -17,6 +17,8 @@ If you want to hire me, please, write me in Telegram
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17337055&layout=compact&theme=dark)](https://ru.stackoverflow.com/users/469436/svpra)
 
+[![wakatime](https://wakatime.com/badge/user/4f140be3-3d32-41c2-b9fe-9f89c2e6ab34.svg)](https://wakatime.com/@4f140be3-3d32-41c2-b9fe-9f89c2e6ab34)
+
 ![](https://komarev.com/ghpvc/?username=svpra&color=brightgreen)
 
 
