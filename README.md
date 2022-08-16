@@ -3,7 +3,7 @@
 I am svpra - backend/low-level developer. I am making enterprise systems 
 for logistics business, backend, and some low level projects for myself. I write in
 - C#, C++, Ruby, Go (as a mainstream) 
-- Python, RUST, C, Julia, Haskell, Java (less)
+- Python, RUST, C[,](https://transpiler.ml/this-is-fine) Julia, Haskell, Java,  (less)
 
 You can find me in:
 - [Telegram](HTTPS://t.me/svprax) 
