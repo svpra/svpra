@@ -1,15 +1,15 @@
 ### Hello!
 
-I am svpra - backend/low-level developer. I am making enterprise systems 
-for logistics business, backend, and some low level projects for myself. I write in
+I am svpra - backend[/](https://svpra.ml)low-level developer[.](https://svpra.ml) I am making enterprise systems 
+for logistics business[,](https://svpra.ml) backend[,](https://svpra.ml) and some low level projects for myself[.](https://svpra.ml) I write in
 - C#[,](https://svpra.ml) C++[,](https://svpra.ml) Ruby[,](https://svpra.ml) Go (as a mainstream) 
 - Python[,](https://svpra.ml) RUST[,](https://svpra.ml) C[,](https://svpra.ml) Julia[,](https://svpra.ml) Haskell[,](https://svpra.ml) Java (less)
 
-You can find me in:
+You can find me in[:](https://svpra.ml)
 - [Telegram](HTTPS://t.me/svprax) 
 - [The Internet ✨](https://svpra.ml/)
                                    
-If you want to hire me, please, write me in Telegram
+If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me in Telegram
 
 ### My stats
 
