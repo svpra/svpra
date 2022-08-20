@@ -11,6 +11,10 @@ You can find me in[:](https://svpra.ml)
                                    
 If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me in Telegram
 
+************
+[The music from this site is driving me insane](https://akarpov.ru/music)
+************
+
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
