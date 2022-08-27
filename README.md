@@ -15,6 +15,21 @@ If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me
 [The music from this site is driving me insane](https://akarpov.ru/music)
 ************
 
+### My projects
+
+Done:
+ - [WMS](https://github.com/transkood/wms)
+ - [My site](https://github.com/svpra/svpra.github.io)
+ - [Virtual machine](https://github.com/svpra/virtual-m)
+ 
+ In progress:
+ - [Social Network or something like this (in progress)](https://github.com/svpra/smolblog)
+ - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
+ - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
+ - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
+ - [Data Science Library (in progress)](https://github.com/svpra/palm)
+ - [
+
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
