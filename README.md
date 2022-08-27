@@ -2,8 +2,8 @@
 
 I am svpra - backend[/](https://svpra.ml)low-level developer[.](https://svpra.ml) I am making enterprise systems 
 for logistics business[,](https://svpra.ml) backend[,](https://svpra.ml) and some low level projects for myself[.](https://svpra.ml) I write in
-- C#[,](https://svpra.ml) C++[,](https://svpra.ml) Ruby[,](https://svpra.ml) Go (as a mainstream) 
-- Python[,](https://svpra.ml) RUST[,](https://svpra.ml) C[,](https://svpra.ml) Julia[,](https://svpra.ml) Haskell[,](https://svpra.ml) Java (less)
+- C#[,](https://svpra.ml) C++[,](https://svpra.ml) Go (as a mainstream) 
+- Python[,](https://svpra.ml) RUST[,](https://svpra.ml) Ruby[,](https://svpra.ml) C[,](https://svpra.ml) Julia[,](https://svpra.ml) Haskell[,](https://svpra.ml) Java (less)
 
 You can find me in[:](https://svpra.ml)
 - [Telegram](HTTPS://t.me/svprax) 
