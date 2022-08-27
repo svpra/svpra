@@ -21,6 +21,7 @@ Done:
  - [WMS](https://github.com/transkood/wms)
  - [My site](https://github.com/svpra/svpra.github.io)
  - [Virtual machine](https://github.com/svpra/virtual-m)
+ - [Tiny Kernel](https://github.com/stuffcs/my-first-kernel)
  
  In progress:
  - [Social Network or something like this (in progress)](https://github.com/svpra/smolblog)
@@ -28,7 +29,7 @@ Done:
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
- - [
+ - [Tiny Operation System](https://github.com/svpra/tos)
 
 ### My stats
 
