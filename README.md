@@ -32,6 +32,7 @@ Done:
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
  - [Tiny Operation System (in progress)](https://github.com/svpra/tos)
  - [Code Editor (Web) (in progress)](https://github.com/svpra/weeco)
+ - [Golang HTTP Server (in progress)](https://github.com/svpra/yagos)
 
 ### My stats
 
