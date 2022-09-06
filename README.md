@@ -35,6 +35,7 @@ Done:
  - [Code Editor (Web) (in progress)](https://github.com/svpra/weeco)
  - [Golang HTTP Server (in progress)](https://github.com/svpra/yagos)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
+ - [C++ Tracer (in progress)](https://github.com/svpra/cpptrace)
 
 ### My stats
 
