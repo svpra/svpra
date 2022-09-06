@@ -23,7 +23,8 @@ Done:
  - [My site](https://github.com/svpra/svpra.github.io)
  - [Virtual machine](https://github.com/svpra/virtual-m)
  - [Tiny Kernel](https://github.com/stuffcs/my-first-kernel)
- 
+ - [Planer App](https://github.com/svpra/planer)
+
  In progress:
  - [Social Network or something like this (in progress)](https://github.com/svpra/smolblog)
  - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
