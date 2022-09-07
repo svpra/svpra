@@ -36,6 +36,7 @@ Done:
  - [Golang HTTP Server (in progress)](https://github.com/svpra/yagos)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
  - [C++ Tracer (in progress)](https://github.com/svpra/cpptrace)
+ - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
 
 ### My stats
 
