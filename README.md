@@ -10,7 +10,7 @@ You can find me in[:](https://svpra.ml)
 - [The Internet ✨](https://svpra.ml/)
 - [My docs site](http://docs.svpra.ml/)
 - [My blog](http://blog.svpra.ml)
--[Zips](http://ftp.svpra.ml)
+- [Zips](http://ftp.svpra.ml)
                                    
 If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me in Telegram
 
