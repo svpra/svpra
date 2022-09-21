@@ -39,6 +39,7 @@ Done:
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
  - [C++ Tracer (in progress)](https://github.com/svpra/cpptrace)
  - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
+ - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
 
 ### My stats
 
