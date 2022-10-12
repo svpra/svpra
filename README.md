@@ -26,6 +26,7 @@ Done:
  - [Virtual machine](https://github.com/svpra/virtual-m)
  - [Tiny Kernel](https://github.com/stuffcs/my-first-kernel)
  - [Planer App](https://github.com/svpra/planer)
+ - [Golang HTTP Server](https://github.com/svpra/yagos)
 
  In progress:
  - [Social Network or something like this (in progress)](https://github.com/svpra/smolblog)
@@ -34,7 +35,6 @@ Done:
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
  - [Code Editor (Web) (in progress)](https://github.com/svpra/weeco)
- - [Golang HTTP Server (in progress)](https://github.com/svpra/yagos)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
  - [C++ Tracer (in progress)](https://github.com/svpra/cpptrace)
  - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
