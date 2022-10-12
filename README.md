@@ -33,7 +33,6 @@ Done:
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
- - [Tiny Operation System (in progress)](https://github.com/svpra/tos)
  - [Code Editor (Web) (in progress)](https://github.com/svpra/weeco)
  - [Golang HTTP Server (in progress)](https://github.com/svpra/yagos)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
