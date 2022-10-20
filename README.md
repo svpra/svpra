@@ -39,6 +39,7 @@ Done:
  - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
  - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
+ - [Pastebin (in progress)](https://github.com/svpra/texta)
 
 ### My stats
 
