@@ -40,6 +40,7 @@ Done:
  - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
  - [Pastebin (in progress)](https://github.com/svpra/texta)
+ - [Biometrical pay system (in progress)](https://github.com/svpra/platiebalom)
 
 ### My stats
 
