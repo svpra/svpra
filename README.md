@@ -34,12 +34,11 @@ Done:
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
- - [Code Editor (Web) (in progress)](https://github.com/svpra/weeco)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
  - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
  - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
- - [Pastebin (in progress)](https://github.com/svpra/texta)
+ - [Pastebin + code web editor (in progress)](https://github.com/svpra/texta)
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
