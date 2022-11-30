@@ -39,6 +39,8 @@ Done:
  - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
  - [Pastebin + code web editor (in progress)](https://github.com/svpra/texta)
+ - [3D Program (in progress)](https://github.com/svpra/regret)
+
 ### My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svpra&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
