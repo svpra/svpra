@@ -29,7 +29,7 @@ Done:
  - [Golang HTTP Server](https://github.com/svpra/yagos)
 
  In progress:
- - [Social Network or something like this (in progress)](https://github.com/svpra/smolblog)
+ - [Social Network or something like this (in progress)](https://github.com/svpra/tectex)
  - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
