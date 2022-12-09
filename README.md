@@ -1,6 +1,6 @@
 ### Hello!
 
-I am svpra - backend[/](https://svpra.ml)low-level developer[.](https://svpra.ml) I am making enterprise systems 
+I am Andrew aka svpra - backend[/](https://svpra.ml)low-level developer[.](https://svpra.ml) I am making enterprise systems 
 for logistics business[,](https://svpra.ml) backend[,](https://svpra.ml) and some low level projects for myself[.](https://svpra.ml) I write in
 - C# (ASP.NET, logistics projects, libraries, frameworks)[,](https://svpra.ml) C++ (LLVM, Compilers, Kernels, Low-Level stuff, libraries)[,](https://svpra.ml) Go (Net Programming)[,](https://svpra.ml) JavaScript (React, some frontend for backend projects) (in this langs i am writing as a mainstream) 
 - Python (AI, bots, parsers)[,](https://svpra.ml) RUST (apps, low-level stuff)[,](https://svpra.ml) Ruby (Backend)[,](https://svpra.ml) C (Low-Level stuff)[,](https://svpra.ml) Julia (some maths)[,](https://svpra.ml) Haskell (functional programming)[,](https://svpra.ml) Java (apps) (less)
@@ -18,9 +18,10 @@ If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me
 [The music from this site is driving me insane](https://akarpov.ru/music)
 ************
 
-### My projects
+<details>
+<summary>My projects</summary>
 
-Done:
+### Done:
  - [WMS](https://github.com/transkood/wms)
  - [My site](https://github.com/svpra/svpra.github.io)
  - [Virtual machine](https://github.com/svpra/virtual-m)
@@ -28,7 +29,7 @@ Done:
  - [Planer App](https://github.com/svpra/planer)
  - [Golang HTTP Server](https://github.com/svpra/yagos)
 
- In progress:
+### In progress:
  - [Social Network or something like this (in progress)](https://github.com/svpra/tectex)
  - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
@@ -40,6 +41,7 @@ Done:
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
  - [Pastebin + code web editor (in progress)](https://github.com/svpra/texta)
  - [3D Program (in progress)](https://github.com/svpra/regret)
+</details>
 
 ### My stats
 
