@@ -37,10 +37,12 @@ If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
  - [Graphic Calculator (in progress)](https://github.com/grcalc)
  - [Spinning Donut (in progress)](https://github.com/svpra/booblic)
- - [My own protocol over TCP (in progress)](http://github.com/svpra/proto)
+ - [My own simple protocol over TCP (in progress)](http://github.com/svpra/proto)
  - [Music Web App (in progress)](https://github.com/svpra/music_web_app)
  - [Pastebin + code web editor (in progress)](https://github.com/svpra/texta)
  - [3D Program (in progress)](https://github.com/svpra/regret)
+ - [My tunneling protocol (in progress)](https://github.com/svpra/tupol)
+ - [My own encryption protocol (in progress)](https://github.com/svpra/vercel)
 </details>
 
 ### My stats
