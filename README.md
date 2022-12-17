@@ -7,13 +7,8 @@ for logistics business[,](https://svpra.ml) backend[,](https://svpra.ml) and som
 
 You can find me in[:](https://svpra.ml)
 - [Telegram](HTTPS://t.me/svprax) 
-- [The Internet ✨](https://svpra.ml/)
-- [My docs site](http://docs.svpra.ml/)
-- [My blog](http://blog.svpra.ml)
-- [Zips](http://ftp.svpra.ml)
+- [The Internet](https://svpra.ml/)
                                    
-If you want to hire me[,](https://svpra.ml) please[,](https://svpra.ml) write me in Telegram
-
 ************
 [The music from this site is driving me insane](https://akarpov.ru/music)
 ************
