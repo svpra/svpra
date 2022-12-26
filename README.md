@@ -26,7 +26,7 @@ You can find me in[:](https://svpra.ml)
  - [My own simple protocol over TCP](http://github.com/svpra/proto)
 
 ### In progress:
- - [Social Network or something like this (in progress)](https://github.com/svpra/tectex)
+ - [Social Network or something like this (in progress)](https://github.com/svpra/asp-forum)
  - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
  - [Network Library for C++ (in progress)](https://github.com/svpra/sok)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
