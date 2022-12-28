@@ -1,10 +1,6 @@
 ### Hello!
 
-I am Andrew aka svpra - backend[/](https://svpra.ml)low-level developer[.](https://svpra.ml) I am making enterprise systems 
-for logistics business[,](https://svpra.ml) backend[,](https://svpra.ml) and some low level projects for myself[.](https://svpra.ml) I write in
-- C# (ASP.NET, logistics projects, libraries, frameworks)[,](https://svpra.ml) C++ (LLVM, Compilers, Kernels, Low-Level stuff, libraries)[,](https://svpra.ml) Go (Net Programming)[,](https://svpra.ml) JavaScript (React, some frontend for backend projects) (in this langs i am writing as a mainstream) 
-- Python (AI, bots, parsers)[,](https://svpra.ml) RUST (apps, low-level stuff)[,](https://svpra.ml) Ruby (Backend)[,](https://svpra.ml) C (Low-Level stuff)[,](https://svpra.ml) Julia (some maths)[,](https://svpra.ml) Haskell (functional programming)[,](https://svpra.ml) Java (apps) (less)
-
+I am Andrew aka svpra - backend .NET/Golang dev. I love cats, compilers and mathematics :)
 You can find me in[:](https://svpra.ml)
 - [Telegram](HTTPS://t.me/svprax) 
 - [The Internet](https://svpra.ml/)
@@ -35,6 +31,14 @@ You can find me in[:](https://svpra.ml)
  - [Pastebin + code web editor (in progress)](https://github.com/svpra/texta)
  - [My tunneling protocol (in progress)](https://github.com/svpra/tupol)
  - [My own encryption protocol (in progress)](https://github.com/svpra/vercel)
+
+</details>
+
+<details>
+<summary>Langs, which i write in</summary>
+
+- C# (ASP.NET, logistics projects, libraries, frameworks)[,](https://svpra.ml) C++ (LLVM, Compilers, Kernels, Low-Level stuff, libraries)[,](https://svpra.ml) Go (Net Programming)[,](https://svpra.ml) JavaScript (React, some frontend for backend projects) (in this langs i am writing as a mainstream) 
+- Python (AI, bots, parsers)[,](https://svpra.ml) RUST (apps, low-level stuff)[,](https://svpra.ml) Ruby (Backend)[,](https://svpra.ml) C (Low-Level stuff)[,](https://svpra.ml) Julia (some maths)[,](https://svpra.ml) Haskell (functional programming)[,](https://svpra.ml) Java (apps) (less)
 
 </details>
 
