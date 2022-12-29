@@ -20,6 +20,7 @@ You can find me in[:](https://svpra.ml)
  - [Planer App](https://github.com/svpra/planer)
  - [Golang HTTP Server](https://github.com/svpra/yagos)
  - [My own simple protocol over TCP](http://github.com/svpra/proto)
+ - [Owolang (lang with cute syntax)](http://github.com/svpra/owolang)
 
 ### In progress:
  - [Social Network or something like this (in progress)](https://github.com/svpra/asp-forum)
