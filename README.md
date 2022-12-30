@@ -4,6 +4,7 @@ I am Andrew aka svpra - backend .NET/Golang dev. I love cats, compilers and math
 You can find me in[:](https://svpra.ml)
 - [Telegram](HTTPS://t.me/svprax) 
 - [The Internet](https://svpra.ml/)
+- [StackOverflow](https://ru.stackoverflow.com/users/469436/svpra)
                                    
 ************
 [The music from this site is driving me insane](https://akarpov.ru/music)
