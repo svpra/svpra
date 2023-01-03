@@ -39,7 +39,7 @@ You can find me in[:](https://svpra.ml)
 <details>
 <summary>Langs, which i write in</summary>
 
-- C# (ASP.NET, logistics projects, libraries, frameworks)[,](https://svpra.ml) C++ (LLVM, Compilers, Kernels, Low-Level stuff, libraries)[,](https://svpra.ml) Go (Net Programming)[,](https://svpra.ml) JavaScript (React, some frontend for backend projects) (in this langs i am writing as a mainstream) 
+- C# (ASP.NET, libraries, frameworks)[,](https://svpra.ml) C++ (LLVM, Compilers, Kernels, Low-Level stuff, libraries)[,](https://svpra.ml) Go (Net Programming)[,](https://svpra.ml) JavaScript (React, some frontend for backend projects) (in this langs i am writing as a mainstream) 
 - Python (AI, bots, parsers)[,](https://svpra.ml) RUST (apps, low-level stuff)[,](https://svpra.ml) Ruby (Backend)[,](https://svpra.ml) C (Low-Level stuff)[,](https://svpra.ml) Julia (some maths)[,](https://svpra.ml) Haskell (functional programming)[,](https://svpra.ml) Java (apps) (less)
 
 </details>
