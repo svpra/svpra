@@ -22,9 +22,9 @@ You can find me in[:](https://svpra.ml)
  - [Golang HTTP Server](https://github.com/svpra/yagos)
  - [My own simple protocol over TCP](http://github.com/svpra/proto)
  - [Owolang (lang with cute syntax)](http://github.com/svpra/owolang)
+ - [Social Network or something like this](https://github.com/svpra/textax)
 
 ### In progress:
- - [Social Network or something like this (in progress)](https://github.com/svpra/asp-forum)
  - [Tiny C++ Compiler (In progress)](https://github.com/svpra/yacppc)
  - [Transpiler Python -> C# (In progress)](https://github.com/svpra/pytosh)
  - [Data Science Library (in progress)](https://github.com/svpra/palm)
